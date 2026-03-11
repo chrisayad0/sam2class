@@ -9,6 +9,6 @@ Gem5-all was to output all objects except person.
 One or two of them had actual text detection using EasyOCR on it but it was slow frames.
 
 
-To see the video before it is made public you can go here: 
+video: https://youtu.be/8MI5blBq8MA
 
 AI collection :  https://www.patreon.com/collection/1960970
